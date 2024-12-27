@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "interview",
+      "request": "launch",
+      "mainClass": "interview",
+      "projectName": "C Projects_de8c0f14"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/tyronemarhguy/C Projects/Attendance Monitoring",
+      "program": "/Users/tyronemarhguy/C Projects/Attendance Monitoring/build/Debug/outDebug"
+    }
+  ]
+}
